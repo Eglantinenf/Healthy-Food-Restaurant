@@ -24,11 +24,11 @@ Welcome to the **Healthy Switcher** repository! This project is a stylish websit
 
 ## Live Demo
 
-Check out the live demo of the Healthy Switcher website [here](#).
+Check out the live demo of the Healthy Switcher website [here](https://eglantinenf.github.io/Healthy-Food-Restaurant/).
 
 ## Figma Template
 
-The design of this website is based on a Figma template. You can view the Figma template [here](#).
+The design of this website is based on a Figma template. You can view the Figma template [here](https://www.figma.com/proto/48MOKxwwfdMl3fiagdkE3j/Healthy-food?node-id=2-2&t=Uf3zDrQZud4vcGTz-1).
 
 ## Usage
 
