@@ -29,7 +29,3 @@ Check out the live demo of the Healthy Switcher website [here](https://eglantine
 ## Figma Template
 
 The design of this website is based on a Figma template. You can view the Figma template [here](https://www.figma.com/proto/48MOKxwwfdMl3fiagdkE3j/Healthy-food?node-id=2-2&t=Uf3zDrQZud4vcGTz-1).
-
-## Usage
-
-This project is a static website, and no installation is required. You can view it directly through the provided [live demo](#).
