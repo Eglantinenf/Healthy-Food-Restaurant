@@ -26,13 +26,9 @@ Welcome to the **Healthy Switcher** repository! This project is a stylish websit
 
 Check out the live demo of the Healthy Switcher website [here](#).
 
-> Note: Replace `#` with the actual URL of your GitHub Pages site once it's deployed.
-
 ## Figma Template
 
 The design of this website is based on a Figma template. You can view the Figma template [here](#).
-
-> Note: Replace `#` with the actual URL of the Figma template.
 
 ## Usage
 
