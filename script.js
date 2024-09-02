@@ -1,7 +1,6 @@
-let $ = document;
-let sliderImgElems = $.querySelectorAll('.img-slider');
-let prevBtn = $.querySelector('.prev');
-let nextBtn = $.querySelector('.next');
+let sliderImgElems = document.querySelectorAll('.img-slider');
+let prevBtn = document.querySelector('.prev');
+let nextBtn = document.querySelector('.next');
 
 let imgIndex = 0;
 
