@@ -2,6 +2,8 @@
 
 Welcome to the **Healthy Switcher** repository! This project is a stylish website for a healthy food restaurant, developed from a Figma template to practice CSS and front-end development skills.
 
+the background of landing page was correct even after deploying..but it's not working now !
+
 ## Table of Contents
 
 - [Introduction](#introduction)
