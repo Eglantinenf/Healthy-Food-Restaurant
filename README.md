@@ -17,7 +17,7 @@ Welcome to the **Healthy Switcher** repository! This project is a stylish websit
 
 ## Features
 
-- **Static Layout**: A clean and simple design, focused on displaying content clearly.
+- **Static Layout**: A clean and simple design, focused on displaying content clearly.(not: its not responsive yet!!)
 - **Image Slider**: Displays multiple images with navigation controls for a dynamic user experience.
 - **Interactive Sections**: Includes various buttons and links (note: some are placeholders and may not be clickable).
 - **Social Media Integration**: Showcases content from Twitter, Instagram, and Facebook.
