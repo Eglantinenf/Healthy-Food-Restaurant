@@ -1,0 +1,56 @@
+.landing {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.landing-content h1 {
+    font-weight: 200;
+    font-size: 72px;
+    line-height: 85px;
+    margin-bottom: 15px;
+}
+
+.landing-content h1 span {
+    font-weight: 500;
+}
+
+.landing-content p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 70%;
+}
+
+.landing-content button {
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px auto;
+    font-weight: 700;
+    font-size: 18px;
+    color: #212121;
+    background-color: #34C759;
+    padding: 20px 30px;
+    border-radius: 40px;
+    border: none;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.landing-content button:hover {
+    background-color: #78d690;
+    transform: scale(1.02);
+}
+/* ----------- */
+.landing-info {  
+    display: flex;  
+    justify-content: center;
+    padding: 20px; 
+    gap: 100px;
+}  
+
+.info-item {  
+    display: flex;  
+    flex-direction: column;  
+    margin: 0;
+}

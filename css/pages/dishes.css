@@ -1,0 +1,82 @@
+.dishes {
+    display: flex;
+    flex-direction: column;
+    margin: 60px auto;
+    padding: 20px;
+    width: 1110px;
+}
+
+.dishes-header {
+    text-align: center;
+    height: 100px;
+}
+
+.dishes-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    /* justify-content: center; */
+}
+
+.dishes-content {
+    width: 320px;
+    background-color: #252525;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px 0px #0000001A;
+    margin-bottom: 20px;
+}
+
+.dish-image img {
+    width: 100%;
+    height: 260px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.dishes-info h1 {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 30px;
+    color: #D9D9D9;
+}
+
+.dishes-info p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #A4A8B2;
+}
+
+.dishes-info p:last-child {
+    color: #85878C;
+}
+
+.dishes-more {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.dishes-more p {
+    font-weight: 900;
+    font-size: 12px;
+    line-height: 30px;
+    color: #B3B3B3;
+    margin-right: 80px;
+}
+
+.dishes-more button {
+    background-color: #34C759;
+    color: #252525;
+    font-weight: 900;
+    font-size: 13px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.dishes-more button:hover {
+    background-color: #45a049;
+}

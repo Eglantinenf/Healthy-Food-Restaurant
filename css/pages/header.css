@@ -1,0 +1,66 @@
+.merge { 
+    height: 830px;
+    background:   
+        linear-gradient(0deg, rgba(33, 33, 33, 0.5), rgba(33, 33, 33, 0.5)),   
+        linear-gradient(180deg, rgba(26, 26, 26, 0.0001) 0%, #1A1A1A 100%),  
+        url('/images/landingbg.jpg');  
+    background-size: cover;
+    background-position-y: 15%;
+    background-repeat: no-repeat;
+    z-index: -1;
+}  
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+}
+
+header .logo {
+    color: #34C759;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+header .logo img {
+    border: none;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+}
+
+header nav a {
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 60px;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+header nav a::after {
+    content: ''; 
+    position: absolute; 
+    left: 50%;
+    bottom: -5px;
+    width: 0;
+    height: 1px;
+    background-color: #34C759;
+    transition: width 0.3s ease, left 0.3s ease; 
+}
+
+header nav a:hover {
+    color: #34C759;
+}
+
+header nav a:hover::after {  
+    width: 100%; 
+    left: 0;
+}

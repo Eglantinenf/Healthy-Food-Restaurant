@@ -1,0 +1,45 @@
+@import url('pages/header.css');
+@import url('pages/landing.css');
+@import url('pages/about.css');
+@import url('pages/services.css');
+@import url('pages/dishes.css');
+@import url('pages/chefs.css');
+@import url('pages/recipes.css');
+@import url('pages/socials.css');
+@import url('pages/footer.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {  
+    scroll-behavior: smooth;  
+}  
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1e1d1d;
+    overflow-x: hidden;
+}
+
+#scrollToTopBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    padding: 12px 15px;
+    background-color: #34C759;
+    color: #1e1d1d;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    display: none;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+#scrollToTopBtn:hover {
+    background-color: #2e7941;
+    transform: scale(1.02);
+}

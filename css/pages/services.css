@@ -1,0 +1,64 @@
+.services {
+    display: flex;
+    flex-direction: column;
+    margin: 60px auto;
+    padding: 40px;
+    width: 1110px;
+}
+
+.services-header {
+    text-align: center; 
+    height: 100px;
+}
+
+.hrTag {
+    width: 60px;
+    border: 2px solid #34C759;
+    margin-bottom: 80px;
+}
+
+.service-content {
+    display: flex;
+    gap: 25px;
+}
+
+.card {
+    background-color: #252525;
+    color: #FFFFFF;
+    box-shadow: 0px 2px 5px 0px #0000001A;
+    border-radius: 10px;
+    padding: 30px 15px;
+    transition: all 0.3s;
+}
+
+.card:hover {
+    background-color: #34C759;
+    color: #191919;
+    .hr {
+        border: 2px solid #191919;
+    }
+    p {
+        color: #191919;
+    }
+}
+
+.card h4 {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #FFFFFF80;
+}
+
+.hr {
+    width: 60px;
+    border: 2px solid #34C759;
+    margin-left: 0;
+    margin-bottom: 25px;
+}
