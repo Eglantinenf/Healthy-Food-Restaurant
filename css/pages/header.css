@@ -3,7 +3,7 @@
     background:   
         linear-gradient(0deg, rgba(33, 33, 33, 0.5), rgba(33, 33, 33, 0.5)),   
         linear-gradient(180deg, rgba(26, 26, 26, 0.0001) 0%, #1A1A1A 100%),  
-        url('/images/landingbg.jpg');  
+        url('https://s3-alpha-sig.figma.com/img/b9df/0532/43d2d7c61920b15a5a504a26b7232590?Expires=1726444800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=L~DnDxeJJaPOkd18mwhbl5EteiYMBazW66CjSvmTaR0caGtmCSELMyNq6KJ8cQO94cFBNxqAvioa57DETFxTEcL~6pDEao-vz8veWaB4Q9JFl6SIrOGt7bFEZbHnuAdTB~Ya2Lse5TulZZe~XIwv-2E4pdQxeQlc7swzFKSJaITdnst3cwIDr25hb1y8blX3cylY9kv4s~h07ioTmkE-JLzfN34Uvphzqixp4FR1daRzMdPrScEErcNVn1Qxl2XAls5xkMo2QBe4-YsT4o7HlCfLXDx3jvmjGGi9r4eP8c5sRIOT5-2ofx3fpwS47ymZPaXcoiL2ug1qfVIGmZSSgA__');  
     background-size: cover;
     background-position-y: 15%;
     background-repeat: no-repeat;
